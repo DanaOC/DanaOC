@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanaOC
 - 👀 I’m interested in web/game development!
-- 🌱 I’m currently learning JavaScript and React!
+- 🌱 I’m currently learning JavaScript.
 
 
 <!---
